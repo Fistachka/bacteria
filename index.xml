@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>bacteria</repo>
-  <version>v1.0.6</version>
+  <version>v1.0.7</version>
   <next number="1" owner="stolbitsa" repo="submediant"/>
   <readme>
     <ru>d975999cd657d6b7914630cc72f7e44ca736377ce19fa420e79cc383e70cd125</ru>
@@ -152,11 +152,11 @@
     <tonalities>1</tonalities>
     <video name="10t.mp4" size="1710220" type="video/mp4" volume="0.4">6827b40ef0dc353931096ed90498bc239de4c7c6ee879debfab69ab0e4492a9c</video>
     <notes>
-      <note number="1" values="5" ticks="47" durationTicks="134" ppq="96" velocity="0.843"/>
-      <note number="2" values="18" ticks="121" durationTicks="146" ppq="96" velocity="0.913"/>
-      <note number="3" values="1" ticks="201" durationTicks="222" ppq="96" velocity="0.874"/>
-      <note number="4" values="18" ticks="280" durationTicks="139" ppq="96" velocity="0.862"/>
-      <note number="5" values="1" ticks="359" durationTicks="151" ppq="96" velocity="0.847"/>
+      <note number="1" values="5" ticks="41" durationTicks="134" ppq="96" velocity="0.843"/>
+      <note number="2" values="18" ticks="115" durationTicks="146" ppq="96" velocity="0.913"/>
+      <note number="3" values="1" ticks="195" durationTicks="222" ppq="96" velocity="0.874"/>
+      <note number="4" values="18" ticks="274" durationTicks="139" ppq="96" velocity="0.862"/>
+      <note number="5" values="1" ticks="353" durationTicks="151" ppq="96" velocity="0.847"/>
     </notes>
   </exercise>
 </level>
