@@ -2,11 +2,11 @@
 <level>
   <owner>Fistachka</owner>
   <repo>bacteria</repo>
-  <version>v1.0.2</version>
+  <version>v1.0.3</version>
   <next number="1" owner="stolbitsa" repo="submediant"/>
   <readme>
-    <ru>35c26da8fd282c2a28542e752dbd27adafb2787190a6354a1a9643f44e2bd871</ru>
-    <en>1f87bd21d9ce6babf47062ddd34f8ec5424027f589b70bc0433e941d26136761</en>
+    <ru>d975999cd657d6b7914630cc72f7e44ca736377ce19fa420e79cc383e70cd125</ru>
+    <en>8a9480cfcf735fff275ce14bc715850a01bdbdf9e20643f0fc1559a90068090a</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
